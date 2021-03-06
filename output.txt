@@ -1,0 +1,32 @@
+
+Employee ID Number: 1
+Name: Jones, Booker T.
+Dept Code: 22
+
+Employee ID Number: 2
+Name: Hendrix, Jimi NMI .
+Dept Code: 14
+
+Employee ID Number: 4
+Name: Jones, John P. 
+Dept Code: 15
+Salary: 2000
+
+Employee ID Number: 5
+Name: Lennon, John NMI . 
+Dept Code: 20
+Salary: 2500
+
+Employee ID Number: 6
+Name: Halen, Eddie V. 
+Dept Code: 18
+Hours Worked: 35
+Hourly Rate: 15.5
+Pay: 542.5
+
+Employee ID Number: 7
+Name: Grohl, Dave NMI . 
+Dept Code: 21
+Hours Worked: 49
+Hourly Rate: 12.25
+Pay: 604.75
